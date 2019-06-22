@@ -33,4 +33,11 @@ this is just a demo of all the various methods to perform asynchronous operation
 ##### Async/await
 
     Async/await is just a better way of consuming promises. it is basically a syntactic sugar added with ES6 to handle promises.
-    they remove the chaining of then statements in promises consumption and use await to get data from resolved promises
+    the async label shows that its an asynchronous function and chaining of then statements in promises consumption is replaced with await to get data from resolved promises.
+    check my examples for illustration of how to use async/await
+
+### Relevant links
+
+> proper guide and documentation on JavaScript [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises "Mozilla promises guide")
+
+> proper guide and documentation on JavaScript [Async/await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function "Mozilla async/await guide")
